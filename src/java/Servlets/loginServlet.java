@@ -62,5 +62,4 @@ public class loginServlet extends HttpServlet {
             throws ServletException, IOException {
     }
     
-    
 }
