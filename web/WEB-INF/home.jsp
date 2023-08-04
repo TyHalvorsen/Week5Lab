@@ -13,7 +13,7 @@
     </head>
     <body>
         <h1>Home Page</h1>
-        Greetings ${username} You are logged in to the Matrix!
-        <a href="logout">LogOut</a>
+        <p>Greetings, ${user.username} You are logged in to the Matrix!</p>
+        <a href="login?logout=true">Logout</a>
     </body>
 </html>
